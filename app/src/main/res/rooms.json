@@ -1,0 +1,111 @@
+[
+  {
+    "name": "camera1",
+    "fingerprint": [
+      {
+        "bssid": "5e:98:ac:48:00:1d",
+        "sumSamples": -180,
+        "nSamples": 5,
+        "mean": -36
+      },
+      {
+        "bssid": "10:c3:ab:e9:5e:ac",
+        "sumSamples": -356,
+        "nSamples": 5,
+        "mean": -71.19999694824219
+      }
+    ]
+  },
+  {
+    "name": "camera2",
+    "fingerprint": [
+      {
+        "bssid": "5e:98:ac:48:00:1d",
+        "sumSamples": -356,
+        "nSamples": 5,
+        "mean": -71.19999694824219
+      },
+      {
+        "bssid": "10:c3:ab:e9:5e:ac",
+        "sumSamples": -301,
+        "nSamples": 4,
+        "mean": -75.25
+      },
+      {
+        "bssid": "30:16:9d:56:69:a8",
+        "sumSamples": -325,
+        "nSamples": 4,
+        "mean": -81.25
+      }
+    ]
+  },
+  {
+    "name": "baie",
+    "fingerprint": [
+      {
+        "bssid": "5e:98:ac:48:00:1d",
+        "sumSamples": -343,
+        "nSamples": 5,
+        "mean": -68.5999984741211
+      },
+      {
+        "bssid": "10:c3:ab:e9:5e:ac",
+        "sumSamples": -338,
+        "nSamples": 5,
+        "mean": -67.5999984741211
+      },
+      {
+        "bssid": "30:16:9d:56:69:a8",
+        "sumSamples": -350,
+        "nSamples": 5,
+        "mean": -70
+      }
+    ]
+  },
+  {
+    "name": "bucatarie",
+    "fingerprint": [
+      {
+        "bssid": "5e:98:ac:48:00:1d",
+        "sumSamples": -659,
+        "nSamples": 10,
+        "mean": -65.9000015258789
+      },
+      {
+        "bssid": "10:c3:ab:e9:5e:ac",
+        "sumSamples": -687,
+        "nSamples": 10,
+        "mean": -68.69999694824219
+      },
+      {
+        "bssid": "30:16:9d:56:69:a8",
+        "sumSamples": -335,
+        "nSamples": 4,
+        "mean": -83.75
+      }
+    ]
+  },
+  {
+    "name": "living",
+    "fingerprint": [
+      {
+        "bssid": "5e:98:ac:48:00:1d",
+        "sumSamples": -680,
+        "nSamples": 10,
+        "mean": -68
+      },
+      {
+        "bssid": "10:c3:ab:e9:5e:ac",
+        "sumSamples": -599,
+        "nSamples": 10,
+        "mean": -59.900001525878906
+      },
+      {
+        "bssid": "30:16:9d:56:69:a8",
+        "sumSamples": -797,
+        "nSamples": 10,
+        "mean": -79.69999694824219
+      }
+    ]
+  }
+]

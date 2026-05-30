@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:icon="@drawable/home_icon_silhouette_svgrepo_com"
+        android:id="@+id/menu_home"/>
+    <item android:title="Rooms"
+        android:icon="@drawable/room_svgrepo_com"
+        android:id="@+id/menu_rooms"/>
+    <item android:title="Timetable"
+        android:icon="@drawable/calendar_times_svgrepo_com"
+        android:id="@+id/menu_timetable"/>
+</menu>

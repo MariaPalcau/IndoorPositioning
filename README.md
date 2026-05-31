@@ -6,9 +6,9 @@ The application allows users to manage their timetable and receive automatic not
 To use the application, the user must keep both Wi-Fi and location services enabled. 
 
 For each classroom they regularly attend, the user performs an initial scan of the room. 
-Rather than relying on GPS, which is often inaccurate indoors, this app uses Wi-Fi fingerprinting to determine the user's location inside university buildings.
+Rather than relying on GPS, which is often inaccurate indoors, this app uses Wi-Fi fingerprinting to determine the user's location inside the university.
 
-Wi-Fi fingerprinting works by measuring the RSSI (Received Signal Strength Indicator) values of nearby Wi-Fi Access Points. Since each room has a unique combination of visible access points and signal strengths, it is possible to distinguish between different locations within the building. The application allows users to create their own fingerprints for the rooms they visit, providing a personalized and adaptable indoor positioning system.
+Wi-Fi fingerprinting works by measuring the RSSI (Received Signal Strength Indicator) values of nearby Wi-Fi Access Points. Since each room has a unique combination of access points and signal strengths, it is possible to distinguish between different locations within the building. The application allows users to create their own fingerprints for the rooms they visit, providing a personalized and adaptable indoor positioning system.
 
 Although Wi-Fi fingerprinting generally provides better indoor positioning than GPS, it is not perfectly accurate. Signal strengths can fluctuate due to obstacles such as walls, furniture, people moving through the area, and temporary interference from electronic devices. As a result, the detected location may occasionally differ from the user's actual position, particularly in neighboring rooms with similar Wi-Fi environments. To reduce these errors, the application compares multiple access points simultaneously rather than relying on a single signal measurement.
 
